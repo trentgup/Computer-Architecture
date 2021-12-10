@@ -1,7 +1,7 @@
 # Computer-Architecture
 **Author:** Trent Gadbois
 
-**Description of Target Audience:** This tutorial is for people who have little to no knowledge about computers.
+**Description of Target Audience:** This tutorial is for people who have little to no knowledge about computer components.
 
 **Summary:** This tutorial gives you a brief description of each component in a computer from Wikipedia.
 
