@@ -2,5 +2,6 @@ As the name sugjests the motherboard allows communication between multiple compo
 
 [Reference](https://en.wikipedia.org/wiki/Motherboard)
 
+[**Next Topic:** Central Processing Unit (CPU)](cpu.md)
 
 [Return](README.md)
