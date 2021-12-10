@@ -5,9 +5,9 @@
 
 **Summary:** In this tutorial I will go throuh the different parts in a computer and talk a bit about what they do.
 
-## [Motherboard](README.md)
+## [Motherboard](Motherboard.md)
 ## [Central Processing Unit (CPU)]
-## [Chipset (Northbridge/Southbridge)]
+## [Chipset (Northbridge/Southbridge)](Chipset.md)
 ## [Basic Input/Output System (BIOS)]
 ## [Random Access Memory (RAM)]
 ## [PCI Express (PCIe)]
