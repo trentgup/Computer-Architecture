@@ -4,3 +4,5 @@ A motherboard (also called mainboard, main circuit board,[1] or mobo) is the mai
 Motherboard means specifically a PCB with expansion capabilities. As the name suggests, this board is often referred to as the "mother" of all components attached to it, which often include peripherals, interface cards, and daughterboards: sound cards, video cards, network cards, host bus adapters, TV tuner cards, IEEE 1394 cards; and a variety of other custom components.
 
 [Reference](https://en.wikipedia.org/wiki/Motherboard)
+
+[Return](README.md)
