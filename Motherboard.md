@@ -1,8 +1,6 @@
-For other uses, see Motherboard (disambiguation).
-A motherboard (also called mainboard, main circuit board,[1] or mobo) is the main printed circuit board (PCB) in general-purpose computers and other expandable systems. It holds and allows communication between many of the crucial electronic components of a system, such as the central processing unit (CPU) and memory, and provides connectors for other peripherals. Unlike a backplane, a motherboard usually contains significant sub-systems, such as the central processor, the chipset's input/output and memory controllers, interface connectors, and other components integrated for general use.
-
-Motherboard means specifically a PCB with expansion capabilities. As the name suggests, this board is often referred to as the "mother" of all components attached to it, which often include peripherals, interface cards, and daughterboards: sound cards, video cards, network cards, host bus adapters, TV tuner cards, IEEE 1394 cards; and a variety of other custom components.
+As the name sugjests the motherboard allows communication between multiple components of the computer(CPU and Memory). It's the "mother" of all of the components attached to it. You can also connect multiple pereprials to the motherboard.
 
 [Reference](https://en.wikipedia.org/wiki/Motherboard)
+
 
 [Return](README.md)
