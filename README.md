@@ -10,4 +10,14 @@
 ## Chipset (Northbridge/Southbridge)
 ## Basic Input/Output System (BIOS)
 ## Random Access Memory (RAM)
-
+## PCI Express (PCIe)
+## Serial Advanced Technology Attachment (SATA)
+## Integrated Drive Electronics (IDE)
+## Universal Serial Bus (USB)
+## Data Storage
+## Video Card
+## Sound Card
+## Network Interface Controller (NIC)
+## Power Supply
+## Cooling
+## Case
