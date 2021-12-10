@@ -3,7 +3,7 @@
 
 **Description of Target Audience:** This tutorial is for people who have little to no knowledge about computer components.
 
-**Summary:** This tutorial gives you a brief description of each component in a computer from Wikipedia.
+**Summary:** This tutorial gives you a brief description of each component in a computer.
 
 ## Click on any computer part to learn about it! When you want to return to this list just click the link to README.md
 ### [Motherboard](Motherboard.md)
