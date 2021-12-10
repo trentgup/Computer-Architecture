@@ -1,1 +1,1 @@
-[**Next Topic:** Chipset(Northbridge/Southbridge](chipset.md)
+[**Next Topic:** Chipset(Northbridge/Southbridge](Chipset.md)
