@@ -1,4 +1,4 @@
-PCIe or Peripheral Component Interconnect Express allows your motherboard to connect with your peripheral components. The express is in the name because it is a newer version of PCI which was slower.
+Random Access Memory or RAM for short stores data and machine code that is currently being used, so that it can be accessed quickly and make things faster.
 
 [**Next Topic:** PCI Express (PCIe)](pcie.md)
 
