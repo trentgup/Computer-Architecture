@@ -5,7 +5,7 @@
 
 **Summary:** This tutorial gives you a brief description of each component in a computer.
 
-## Click on any computer part to learn about it! When you want to return to this list just click the link to README.md
+## Click on any computer part to learn about it! When you want to return to this list just click the link to return.
 ### [Motherboard](Motherboard.md)
 ### [Central Processing Unit (CPU)](cpu.md)
 ### [Chipset (Northbridge/Southbridge)](Chipset.md)
